@@ -59,4 +59,4 @@ result === -1
   : console.log(`Element is present at index ${result}`);
 
 // Time Complexity: O(logn)
-// Space Compexity: O(logn)
+// Space Complexity: O(logn)
