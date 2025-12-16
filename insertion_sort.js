@@ -17,3 +17,6 @@ const print_arr = (arr) => {
 let arr = [12, 11, 13, 5, 6];
 insertion_sort(arr);
 print_arr(arr);
+
+// Time Complexity: O(n^2)
+// Space Complextiy: O(1)
